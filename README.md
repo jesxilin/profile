@@ -14,6 +14,6 @@ Current Projects I am working on:
 - iOS Tasklist App
 
 Contact:  
-[Email](jessicacheung289@gmail.com)  
+Email: jessicacheung289@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/jessicacheung289/)  
 [GitHub](https://github.com/jesxilin)
