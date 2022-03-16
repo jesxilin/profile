@@ -2,11 +2,11 @@
 
 _Currently under development_
 
-##### Hello!
+### Hello!
 
-##### I am Jessica Cheung, a sophomore studying :computer: Computer Science at University of Southern California's Viterbi School of Engineering.
+### I am Jessica Cheung, a sophomore studying :computer: Computer Science at University of Southern California's Viterbi School of Engineering.
 
-##### I'm also pursing a minor in :iphone: Mobile App Development.
+### I'm also pursing a minor in :iphone: Mobile App Development.
 
 Current Projects I am working on:
 
